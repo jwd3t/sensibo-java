@@ -1,7 +1,7 @@
 package com.sensibo.platform.pc26010u202318609.shared.interfaces.rest;
 
-import com.sensibo.platform.u202610123.shared.application.result.ApplicationError;
-import com.sensibo.platform.u202610123.shared.interfaces.rest.transform.ErrorResponseAssembler;
+import com.sensibo.platform.pc26010u202318609.shared.application.result.ApplicationError;
+import com.sensibo.platform.pc26010u202318609.shared.interfaces.rest.transform.ErrorResponseAssembler;
 import org.jspecify.annotations.NullMarked;
 import org.springframework.context.i18n.LocaleContextHolder;
 import org.springframework.http.ResponseEntity;
